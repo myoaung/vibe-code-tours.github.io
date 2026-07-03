@@ -1,3 +1,6 @@
+certs:
+  claude_101: https://verify.skilljar.com/c/hnttm3pihbd5
+  claude_code_101: https://verify.skilljar.com/c/hnttm3pihbd5
 ---
 name: Myo Aung 
 github: myoaung
